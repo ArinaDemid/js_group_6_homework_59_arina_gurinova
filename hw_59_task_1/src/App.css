@@ -1,0 +1,13 @@
+.App {
+  margin: 30px auto;
+  width: 500px;
+  height: 500px;
+  border: 1px solid grey;
+  text-align: center;
+}
+
+.AppTitle {
+  margin: 10px 0 10px 10px;
+  font-style: bold;
+  font-size: 20px;
+}
