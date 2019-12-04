@@ -64,7 +64,7 @@ render() {
           />
         ))}
       </section>
-      <Button newJokes={() => this.componentDidMount()} flag={this.state.flag} />
+      <Button newJokes={() => this.componentDidMount()} />
     </Fragment>
     )
   }
